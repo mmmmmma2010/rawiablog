@@ -1,0 +1,21 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  direction: rtl;
+  text-align: right;
+  padding-top: 56px;
+  background-color: #EFF7F4;
+}
+.navbar{
+  background-color: #2E5C03 ;
+}
+
+#navbarResponsive{
+  padding-right: 10%;
+}
+
+/* //colors  :#0B4FE0 #103995  #E0CB00 #751094  #AF0AE0 */
